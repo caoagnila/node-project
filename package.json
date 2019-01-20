@@ -1,0 +1,24 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "黑马nede项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caoagnila/node-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caoagnila/node-project/issues"
+  },
+  "homepage": "https://github.com/caoagnila/node-project#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
